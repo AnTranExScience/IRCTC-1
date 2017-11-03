@@ -1,5 +1,4 @@
 # IRCTC
-irctc ticket booking using c++ qt framework
 
 IRCTC
 
